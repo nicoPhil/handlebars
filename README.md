@@ -1,0 +1,4 @@
+handlebars
+==========
+
+Minimalist handlebars sample
